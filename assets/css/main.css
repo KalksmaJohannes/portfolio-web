@@ -2878,7 +2878,7 @@ dl dd {
 	margin-bottom: 1.6em;
 	margin-top: -1em;
 	gap: .7em;
-
+	flex-wrap: wrap;
 }
 
 .stack.li,
